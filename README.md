@@ -1,2 +1,2 @@
-# MS_SQL_SSRS_Project_Files
-This Repo contains all the SSRS reports (.RDL files) developed using the SSRS reporting tool. Thanks
+# MS_SQL_SSRS_Reporting
+This Repo holds information and resources about various SSRS Reports built upon multiple use cases
